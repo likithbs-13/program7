@@ -1,3 +1,1 @@
-edit 1 committed
-edit 2 committed
-edit 3 commited
+edit 1 edit 2 edit 3
